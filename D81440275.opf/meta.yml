@@ -6,7 +6,13 @@ imported: '2021-11-12T09:22:26+00:00'
 last_modified: '2022-05-30T04:02:39.567815+00:00'
 parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  base: {}
+  base:
+    6ea8:
+      image_group_id: I1PD95938
+      title: འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་འོད་ལྡན།
+      total_pages: 1484
+      order: 93
+      base_file: 6ea8.txt
 statistics: {}
 quality: {}
 copyright:
